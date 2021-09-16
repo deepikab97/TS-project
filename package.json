@@ -1,0 +1,29 @@
+{
+  "name": "typescript-jest-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bromix/typescript-jest-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bromix/typescript-jest-example/issues"
+  },
+  "homepage": "https://github.com/bromix/typescript-jest-example#readme",
+  "devDependencies": {
+    "@types/jest": "^26.0.24",
+    "jest": "^26.6.3",
+    "karma-sonarqube-unit-reporter": "0.0.23",
+    "sonar-scanner": "^3.1.0",
+    "ts-jest": "^26.5.6",
+    "typescript": "3.2.1"
+  }
+}
